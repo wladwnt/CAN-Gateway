@@ -9,3 +9,5 @@ Detailierte Bedingungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.
 - Über WLAN Interface kann CAN-Gateway mithilfe eines Internet Browsers konfiguriert werden.
 
 ![CAN-Gateway](intro.jpeg)
+
+## Einige Bilder/Screenshots:
