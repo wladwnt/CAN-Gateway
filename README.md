@@ -2,7 +2,7 @@
 
 Detailierte Bedingungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.pdf)
 
-Aktuelle Projektphase: Betatest
+Aktuelle Projektphase: Betatest. Also alle Interessenten mit ausreichend Fachkentnissen können es gerne testen und Feedback geben.
 
 Aktuell ist die Software nur als eine sogennate "Demo-Version" veröffentlicht. Diese hat im Vergleich zur voller Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version"). Ob und wann die volle Version veröffentlicht wird, ist offen.
 
