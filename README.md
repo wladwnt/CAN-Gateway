@@ -2,7 +2,7 @@
 
 Detaillierte Bedienungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.pdf)
 
-Das gesamte Projekt herunterladen: [CAN-Gateway-master.zip](archive/master.zip)
+Das gesamte Projekt herunterladen: [CAN-Gateway-master.zip](https://github.com/wladwnt/CAN-Gateway/archive/master.zip)
 
 Aktuelle Projektphase: Betatest. Also alle Interessenten mit ausreichend Fachkenntnissen können es gerne testen und Feedback geben.
 
