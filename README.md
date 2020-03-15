@@ -4,7 +4,7 @@ Detaillierte Bedienungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung
 
 Aktuelle Projektphase: Betatest. Also alle Interessenten mit ausreichend Fachkenntnissen können es gerne testen und Feedback geben.
 
-Aktuell ist die Software nur als eine sogenannte "Demo-Version" veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version"). Ob und wann die volle Version veröffentlicht wird, ist offen.
+Aktuell ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version"). Ob und wann die volle Version (kompiliert) veröffentlicht wird, ist offen. Eine Veröffentlichung der Quellencode ist aktuell nicht geplant.
 
 Kurze Beschreibung:
 
