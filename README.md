@@ -11,3 +11,4 @@ Detailierte Bedingungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.
 ![CAN-Gateway](img/intro.jpeg)
 
 ## Einige Bilder/Screenshots:
+![Aufbau der Hardware](img/aufbau.jpeg)
