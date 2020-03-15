@@ -15,9 +15,10 @@ Aufbau der Hardware:
 ![Aufbau der Hardware](img/aufbau.jpeg)
 
 Screenshots WEB-Interface:
-![img1](img/img1.jpg)
-![img2](img/img2.jpg)
-![img3](img/img3.jpg)
-![img4](img/img4.jpg)
-![img5](img/img5.jpg)
-![img6](img/img6.jpg)
+![img1](img/img1.JPG)
+![img2](img/img2.JPG)
+![img3](img/img3.JPG)
+![img4](img/img4.JPG)
+![img5](img/img5.JPG)
+![img6](img/img6.JPG)
+![img7](img/img7.JPG)
