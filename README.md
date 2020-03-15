@@ -8,6 +8,6 @@ Detailierte Bedingungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.
 - ESP32 DevKit Board besitzt einen WLAN Interface, so dass das Hausautomatisierungssystem kann über WLAN mit dem CAN-Gateway verbunden werden. Als Datenübertragungsprotokolle zwischen CAN-Gateway und dem Hausautomatisierungssystem können wahlweise MQTT Protokoll, Modbus TCP Protokoll oder REST-API verwendet werden, wobei MQTT Protokoll empfohlen wird und Modbus TCP Protokoll nur mit einigen Einschränkungen funktioniert.
 - Über WLAN Interface kann CAN-Gateway mithilfe eines Internet Browsers konfiguriert werden.
 
-![CAN-Gateway](intro.jpeg)
+![CAN-Gateway](img/intro.jpeg)
 
 ## Einige Bilder/Screenshots:
