@@ -2,6 +2,8 @@
 
 Detailierte Bedingungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.pdf)
 
+Aktuelle Projektphase: Betatest
+
 Aktuell ist die Software nur als eine sogennate "Demo-Version" veröffentlicht. Diese hat im Vergleich zur voller Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version"). Ob und wann die volle Version veröffentlicht wird, ist offen.
 
 - Diese Software erlaubt es testweise die Geräte der Serie „TopTronic® E“ (TopTronic® E ist die geschützte und eingetragene Marke der Firma Hoval AG) der Firma Hoval Aktiengesellschaft an das Hausautomatisierungssystem anzubinden. Diese Geräte werden im Folgenden einfach „Geräte“ genannt.
