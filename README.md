@@ -8,7 +8,9 @@ Aktuelle Projektphase: Betatest. Also alle Interessenten mit ausreichend Fachken
 
 Fragen bitte an: cangateway@gmx.de
 
-Aktuell ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version"). Ob und wann die volle Version (kompiliert) veröffentlicht wird, ist offen. Eine Veröffentlichung der Quellencode ist aktuell nicht geplant.
+Aktuell ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version").
+
+Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversin der Software hier: [CAN-Gateway auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-tte-geraete-in-smarthome-einbinden/1535132623-168-16390)
 
 Kurze Beschreibung:
 
