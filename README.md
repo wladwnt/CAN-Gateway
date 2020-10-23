@@ -1,6 +1,7 @@
 # CAN-Gateway
 
 Detaillierte Bedienungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.pdf)
+Detailed operation manual in English: [Operation manual](OperationManual.pdf)
 
 Das gesamte Projekt herunterladen: [CAN-Gateway-master.zip](https://github.com/wladwnt/CAN-Gateway/archive/master.zip)
 
