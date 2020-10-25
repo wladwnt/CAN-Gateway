@@ -6,11 +6,9 @@ Detailed operating manual in English: [Operating manual](Operating_manual.pdf)
 
 Das gesamte Projekt herunterladen: [CAN-Gateway-master.zip](https://github.com/wladwnt/CAN-Gateway/archive/master.zip)
 
-Aktuelle Projektphase: Betatest. Also alle Interessenten mit ausreichend Fachkenntnissen können es gerne testen und Feedback geben.
-
 Fragen bitte an: cangateway@gmx.de
 
-Aktuell ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version").
+Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version").
 
 Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversin der Software hier: [CAN-Gateway auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-tte-geraete-in-smarthome-einbinden/1535132623-168-16390)
 
