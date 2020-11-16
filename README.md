@@ -27,6 +27,7 @@ Kurze Beschreibung:
 ## Einige Bilder/Screenshots:
 Aufbau der Hardware:
 ![Aufbau der Hardware](img/aufbau.jpeg)
+![Aufbau der Hardware](img/img_z1.jpeg)
 
 Screenshots WEB-Interface:
 ![img1](img/img1.JPG)
