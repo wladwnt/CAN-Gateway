@@ -10,7 +10,7 @@ Fragen bitte an: cangateway@gmx.de
 
 Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version").
 
-Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversion der Software hier: [CAN-Gateway auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-tte-geraete-in-smarthome-einbinden/1557309839-168-16390)
+Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversion der Software hier: [CAN-Gateway auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-tte-geraete-in-smarthome-einbinden/1604063596-168-16390)
 
 Bisher getestet mit: TTE-HV, TTE_BM, TTE-GW, TTE-WEZ, TTE-HKW.
 
