@@ -34,7 +34,7 @@ Screenshots WEB-Interface:
 ![img2](img/img2.JPG)
 ![img3](img/img3.JPG)
 ![img4](img/img4.JPG)
-![img4](img/img_en1.Jjpg)
+![img4](img/img_en1.jpg)
 ![img5](img/img5.JPG)
 ![img6](img/img6.JPG)
 ![img7](img/img7.JPG)
