@@ -6,7 +6,7 @@ Detailed operating manual in English: [Operating manual](Operating_manual.pdf)
 
 Fragen bitte an: cangateway@gmx.de
 
-Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversion der Software hier: [CAN-Gateway auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-tte-geraete-in-smarthome-einbinden/1604063596-168-16390)
+Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversion der Software hier: [CAN-Gateway auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-r-tte-geraete-in-smarthome-connect/1648493498-168-16390)
 
 Oder auch ein Bausatz zum selber löten: [Bausatz auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-e-in-smarthome-connect-bausatz/1648483655-168-16390)
 
