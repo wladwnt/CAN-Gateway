@@ -8,11 +8,12 @@ Das gesamte Projekt herunterladen: [CAN-Gateway-master.zip](https://github.com/w
 
 Fragen bitte an: cangateway@gmx.de
 
-Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version").
-
 Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversion der Software hier: [CAN-Gateway auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-tte-geraete-in-smarthome-einbinden/1604063596-168-16390)
+Oder ein Bausatz zum Selberlöten: [Bausatz auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-e-in-smarthome-connect-bausatz/1648483655-168-16390)
 
-Bisher getestet mit: TTE-HV, TTE-BM, TTE-GW, TTE-WEZ, TTE-HKW.
+Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizkreis/Warmwasser), TTE-PS (Puffermodul), TTE-SOL (Solar), TTE-BM (Raumbedienmodul), TTE-GW (Gateway), TTE-FW.
+
+Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version").
 
 Kurze Beschreibung:
 
