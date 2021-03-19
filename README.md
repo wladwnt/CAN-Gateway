@@ -37,4 +37,6 @@ Screenshots WEB-Interface:
 ![img4](img/img_en1.jpg)
 ![img5](img/img5.JPG)
 ![img6](img/img6.JPG)
+![img6](img/SDKarte.jpg)
+![img6](img/SDKarte1.jpg)
 ![img7](img/img7.JPG)
