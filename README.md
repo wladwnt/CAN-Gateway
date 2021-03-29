@@ -4,6 +4,8 @@ Detaillierte Bedienungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung
 
 Detailed operating manual in English: [Operating manual](Operating_manual.pdf)
 
+Highlights und erste Schritte: [Highlights_ErsteSchritte](CANGateway_QuickStart.pdf)
+
 Fragen bitte an: cangateway@gmx.de
 
 Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversion der Software hier: [CAN-Gateway auf Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-r-tte-geraete-in-smarthome-connect/1697283510-168-16390)
