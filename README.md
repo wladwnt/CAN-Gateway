@@ -28,7 +28,7 @@ Kurze Beschreibung:
 ## Einige Bilder/Screenshots:
 Aufbau der Hardware:
 ![Aufbau der Hardware](img/aufbau.jpeg)
-![Aufbau der Hardware](img/img_z1.jpg)
+![Aufbau der Hardware](KiCAD/Version5/HW_V5_Pic.jpg)
 
 Screenshots WEB-Interface:
 ![img1](img/img1.JPG)
