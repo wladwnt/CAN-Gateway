@@ -31,6 +31,9 @@ Kurze Beschreibung:
 Aufbau der Hardware:
 ![Aufbau der Hardware](img/aufbau.jpeg)
 ![Aufbau der Hardware](KiCAD/Version5/HW_V5_Pic.jpg)
+![Example1](img/example1.jpg)
+![Example2](img/example2.jpg)
+
 
 Screenshots WEB-Interface:
 ![img1](img/img1.JPG)
