@@ -1,4 +1,5 @@
 # CAN-Gateway
+NEW!!! Coming soon: Android App for CAN Gateway. ![Preview](App/000.jpg)
 
 Detaillierte Bedienungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.pdf)
 
@@ -9,9 +10,6 @@ Highlights und erste Schritte: [Highlights_ErsteSchritte](CANGateway_QuickStart.
 Fragen bitte an: cangateway@gmx.de
 
 Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversion der Software hier: [zu Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-r-tte-geraete-in-smarthome-connect/1799131510-168-16390)
-
-NEW: Coming soon: Android App for CAN Gateway. Peview:
-[Preview](App/000.jpg)
 
 Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizkreis/Warmwasser), TTE-PS (Puffermodul), TTE-SOL (Solar), TTE-BM (Raumbedienmodul), TTE-GW (Gateway), TTE-FW.
 
