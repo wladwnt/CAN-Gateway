@@ -1,5 +1,5 @@
 # CAN-Gateway
-NEW!!! Coming soon: Android App for CAN Gateway. ![Preview](App/000.jpg)
+NEW!!! Coming soon: Android App for CAN Gateway. [Preview](App/000.jpg)
 
 Detaillierte Bedienungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.pdf)
 
