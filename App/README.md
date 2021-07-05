@@ -1,5 +1,6 @@
-Coming soon: Android App for communictin with CAN Gateway
-The App is written using Flutter framework.
+Coming soon: Android App for communication with CAN Gateway.
+
+The App is written using Flutter framework. It means iOS Version is also possible, however I do not have apple smartphones.
 
 ![Preview](001.jpg)
 ![Preview](002.jpg)
