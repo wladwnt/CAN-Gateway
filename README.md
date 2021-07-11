@@ -1,11 +1,11 @@
-# CAN-Gateway
-NEW!!! Coming soon: Android App for CAN Gateway. [Preview](App/000.jpg)
-
+# CAN-Gateway for Hoval devices (TopTronic E&reg; series)
 Detaillierte Bedienungsanleitung hier: [Bedienungsanleitung](Bedienungsanleitung.pdf)
 
 Detailed operating manual in English: [Operating manual](Operating_manual.pdf)
 
 Highlights und erste Schritte: [Highlights_ErsteSchritte](CANGateway_QuickStart.pdf)
+
+NEW!!! Coming soon: Android App for CAN Gateway. [Preview](App/000.jpg)
 
 Fragen bitte an: cangateway@gmx.de
 
@@ -15,7 +15,21 @@ Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizk
 
 Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version").
 
-Kurze Beschreibung:
+## Highlights:
+- Anschluss an Hoval CAN-Bus
+- Web-Interface
+- Frei konfigurierbar
+- Bis zu 40 Parametern gleichzeitig überwachen
+- Sollwerte einstellen
+- Anbindung der Geräte an Hausautomatisierung (z.B.Home Assistant, ioBroker, OpenHAB, Domoticz, Loxone etc.)
+- Unterstützte Protokolle / Features:
+  * MQTT Protokoll
+  * REST API
+  * Modbus TCP
+  * Home Assistant MQTT Auto Discovery
+- Datenlogging auf die SD-Karte
+
+## Kurze Beschreibung:
 
 - Diese Software erlaubt es testweise die Geräte der Serie „TopTronic® E“ (TopTronic® E ist die geschützte und eingetragene Marke der Firma Hoval AG) der Firma Hoval Aktiengesellschaft an das Hausautomatisierungssystem anzubinden. Diese Geräte werden im Folgenden einfach „Geräte“ genannt. 
 - Die Geräte der Serie „TopTronic® E“ der Firma Hoval Aktiengesellschaft besitzen einen CAN-Bus Anschluss. Dieser wird für die Verbindung der Geräte untereinander verwendet. CAN-Gateway kann an dieses CAN-Bus angeschlossen werden und kann die auf dem Bus übertragenen Daten entschlüsseln und selbst die Daten auf dem Bus generieren, so dass damit Auslesen der Informationen aus den Geräten sowie die Steuerung der Geräte für Testzwecke möglich ist.
@@ -24,6 +38,7 @@ Kurze Beschreibung:
 - Über WLAN Interface kann CAN-Gateway mithilfe eines Internet Browsers konfiguriert werden.
 - NEU: Als Datenlogger mit Speicherung der Daten auf einer SD-Karte einsetzbar (In Verbund mit CAN-Gateway Hardware V5 und höher)
 
+(*) TopTronic E is a registered trademark of Hoval AG
 ![CAN-Gateway](img/intro.jpeg)
 
 ## Einige Bilder/Screenshots:
