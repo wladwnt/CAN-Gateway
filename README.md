@@ -29,6 +29,56 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
   * Home Assistant MQTT Auto Discovery
 - Datenlogging auf die SD-Karte
 
+<details open>
+<summary>Supported devices (examples, the list is not complete)</summary>
+<br> HomeVent&reg; comfort FR (201-301)
+<br> HomeVent&reg; comfort FRT (251-451)
+<br> All TopTronic E&reg;devices
+<br> UltraSource&reg; B comfort C (8 - 17)
+<br> UltraSource&reg; B compact C (8,11/200)
+<br> UltraSource&reg; T comfort (8 - 17)
+<br> UltraSource&reg; T compact (8,13/200)
+<br> Belaria&reg; twin IR (20 - 30)
+<br> Belaria&reg; twin A / AR (24,32)
+<br> Belaria&reg; pro comfort (8 - 15)
+<br> Belaria&reg; pro compact (8,13 /100/300)
+<br> Belaria&reg; twin I (20 - 30)
+<br> Belaria&reg; comfort ICM (8,13)
+<br> Thermalia&reg; comfort (6 -17)
+<br> Thermalia&reg; comfort H (5-10)
+<br> Thermalia&reg; dual (55 - 140)
+<br> Thermalia&reg; dual H (35 - 90)
+<br> Thermalia&reg; twin (20 - 42)
+<br> Thermalia&reg; twin H (13 - 22)
+<br> BioLyt (13 - 43), (75 - 150)
+<br> TopGas&reg; comfort inkl. TTE (10 - 22)
+<br> TopGas&reg; classic inkl. TTE (12 - 30)
+<br> UltraGas&reg; (15 - 27), (35 - 100), (125 - 500), (575 - 1550)
+<br> MultiJet&reg; inkl./ohne Neutralisationsbox (12 - 25)
+<br> MultiJet&reg; LSP (12 - 20)
+<br> UltraOil&reg; (16 - 50), (65 - 80), (110-300)
+<br> UltraOil&reg; D (320 - 600)
+<br> Max-3 Öl-/Gasheizkessel mit Regelung TopTronic® E
+<br> TransTherm&reg; giro (H0/N10 - H0/N80)
+<br> TransTherm&reg; giro plus (H1/10 - H1/40), (H3/10 - H3/40), (H5/10), (H9/10 - 9/40)
+<br> TransTherm&reg; pro S / B
+<br> TransTherm&reg; aqua L / LS
+<br> TransTherm&reg; aqua F
+</details>
+
+<details open>
+<summary>NOT supported devices (examples, the list is not complete)</summary>
+<br> HomeVent&reg; RS250
+<br> HomeVent&reg; comfort FR150, FR250, FR300, FR360 etc.
+<br> All TopTronic T&reg; based devices
+<br> All TopTronic C&reg; based devices
+<br> TopGas comfort/combi inkl. RS-OT or classic (without TTE)
+<br> Max-3 Öl-/Gasheizkessel mit Thermostaten (without TTE)
+<br> PowerBloc EG/FG
+<br> TransTherm&reg; aqua FT
+<br> TransTherm&reg; aqua FTC
+</details>
+
 ## Kurze Beschreibung:
 
 - Diese Software erlaubt es testweise die Geräte der Serie „TopTronic® E“ (TopTronic® E ist die geschützte und eingetragene Marke der Firma Hoval AG) der Firma Hoval Aktiengesellschaft an das Hausautomatisierungssystem anzubinden. Diese Geräte werden im Folgenden einfach „Geräte“ genannt. 
@@ -38,7 +88,7 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
 - Über WLAN Interface kann CAN-Gateway mithilfe eines Internet Browsers konfiguriert werden.
 - NEU: Als Datenlogger mit Speicherung der Daten auf einer SD-Karte einsetzbar (In Verbund mit CAN-Gateway Hardware V5 und höher)
 
-(*) TopTronic E is a registered trademark of Hoval AG
+(*) TopTronic E, Ultrasource, Belaria, Thermalia, TransTherm, TopGas, UltraGas, MultiJet, UltraOil, HomeVent  are registered trademarks of Hoval AG
 ![CAN-Gateway](img/intro.jpeg)
 
 ## Einige Bilder/Screenshots:
