@@ -72,7 +72,7 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
 <br> HomeVent&reg; comfort FR150, FR250, FR300, FR360 etc.
 <br> All TopTronic T&reg; based devices
 <br> All TopTronic C&reg; based devices
-<br> TopGas comfort/combi inkl. RS-OT or classic (without TTE)
+<br> TopGas&reg; comfort/combi inkl. RS-OT or classic (without TTE)
 <br> Max-3 Öl-/Gasheizkessel mit Thermostaten (without TTE)
 <br> PowerBloc EG/FG
 <br> TransTherm&reg; aqua FT
