@@ -31,9 +31,9 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
 
 <details open>
 <summary>Supported devices (examples, the list is not complete)</summary>
-<br> HomeVent&reg; comfort FR (201-301)
-<br> HomeVent&reg; comfort FRT (251-451)
-<br> All TopTronic E&reg;devices
+<br> HomeVent&reg; comfort FR (201-301) (all with "1" at the end of the model number)
+<br> HomeVent&reg; comfort FRT (251-451) (all with "1" at the end of the model number)
+<br> All following devices with TopTronic E&reg; controller:
 <br> UltraSource&reg; B comfort C (8 - 17)
 <br> UltraSource&reg; B compact C (8,11/200)
 <br> UltraSource&reg; T comfort (8 - 17)
@@ -69,7 +69,7 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
 <details open>
 <summary>NOT supported devices (examples, the list is not complete)</summary>
 <br> HomeVent&reg; RS250
-<br> HomeVent&reg; comfort FR150, FR250, FR300, FR360 etc.
+<br> HomeVent&reg; comfort FR150, FR250, FR300, FR360 etc. (all with "0" at the end of the model number)
 <br> All TopTronic T&reg; based devices
 <br> All TopTronic C&reg; based devices
 <br> TopGas&reg; comfort/combi inkl. RS-OT or classic (without TTE)
