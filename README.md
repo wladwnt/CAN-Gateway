@@ -5,7 +5,7 @@ Detailed operating manual in English: [Operating manual](Operating_manual.pdf)
 
 Highlights und erste Schritte: [Highlights_ErsteSchritte](CANGateway_QuickStart.pdf)
 
-NEW!!! Coming soon: Android App for CAN Gateway. [Preview](App/000.jpg)
+NEW!!! Android app in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD). Soon also in Google Play!
 
 Fragen bitte an: cangateway@gmx.de
 
