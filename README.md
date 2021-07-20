@@ -6,8 +6,9 @@ Detailed operating manual in English: [Operating manual](Operating_manual.pdf)
 Highlights und erste Schritte: [Highlights_ErsteSchritte](CANGateway_QuickStart.pdf)
 
 NEW!!! Android app in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD). Soon also in Google Play!
+NEW!!! Cooming soon, work in progress: CAN-Gateway on Olimex ESP32-EVB(-EA) board (with Eternet/LAN interface as alternative to WiFI)!
 
-Fragen bitte an: cangateway@gmx.de
+Fragen bitte an / questions please via: cangateway@gmx.de
 
 Aktuell verkaufe ich mein zweites Board, vollständig aufgebaut und mit Vollversion der Software hier: [zu Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-r-tte-geraete-in-smarthome-connect/1799131510-168-16390)
 
