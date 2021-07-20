@@ -5,8 +5,9 @@ Detailed operating manual in English: [Operating manual](Operating_manual.pdf)
 
 Highlights und erste Schritte: [Highlights_ErsteSchritte](CANGateway_QuickStart.pdf)
 
-NEW!!! Android app in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD). Soon also in Google Play!
-NEW!!! Cooming soon, work in progress: CAN-Gateway on Olimex ESP32-EVB(-EA) board (with Eternet/LAN interface as alternative to WiFI)!
+**NEW!!!** Android app in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD). Soon also in Google Play!
+
+**NEW!!!** Cooming soon, work in progress: CAN-Gateway on Olimex ESP32-EVB(-EA) board (with Eternet/LAN interface as alternative to WiFI)!
 
 Fragen bitte an / questions please via: cangateway@gmx.de
 
