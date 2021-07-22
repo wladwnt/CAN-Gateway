@@ -112,3 +112,4 @@ Screenshots WEB-Interface:
 ![img6](img/SDKarte.jpg)
 ![img6](img/SDKarte1.jpg)
 ![img7](img/img7.JPG)
+<img src="onOlimexBoard/olimex_as_cangw.jpg" width="500" />
