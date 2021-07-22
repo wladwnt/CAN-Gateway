@@ -7,7 +7,7 @@ Highlights und erste Schritte: [Highlights_ErsteSchritte](CANGateway_QuickStart.
 
 **NEW!!!** Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.myhome_for_hoval_devices'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80" align="middle"/></a> Also in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD).
 
-**NEW!!!** Available now: CAN-Gateway on Olimex ESP32-EVB(-EA) board (with Eternet/LAN interface as alternative to WiFI)!
+**NEW!!!** Available now: CAN-Gateway on Olimex ESP32-EVB(-EA) board (with Eternet/LAN interface as alternative to WiFI)! [More Info here](/onOlimexBoard)
 
 Fragen bitte an / questions please via: cangateway@gmx.de
 
