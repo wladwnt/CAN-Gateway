@@ -91,25 +91,25 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
 - NEU: Als Datenlogger mit Speicherung der Daten auf einer SD-Karte einsetzbar (In Verbund mit CAN-Gateway Hardware V5 und höher)
 
 (*) TopTronic E, Ultrasource, Belaria, Thermalia, TransTherm, TopGas, UltraGas, MultiJet, UltraOil, HomeVent  are registered trademarks of Hoval AG
-![CAN-Gateway](img/intro.jpeg)
+
+<img src="img/intro.jpeg" width="500" />
 
 ## Einige Bilder/Screenshots:
 Aufbau der Hardware:
-![Aufbau der Hardware](img/aufbau.jpeg)
-![Aufbau der Hardware](KiCAD/Version5/HW_V5_Pic.jpg)
-![Example1](img/example1.jpg)
-![Example2](img/example2.jpg)
-
+<img src="img/aufbau.jpeg" width="500" />
+<img src="KiCAD/Version5/HW_V5_Pic.jpg" width="500" />
+<img src="img/example1.jpg" width="500" />
+<img src="img/example2.jpg" width="500" />
 
 Screenshots WEB-Interface:
-![img1](img/img1.JPG)
-![img2](img/img2.JPG)
-![img3](img/img3.JPG)
-![img4](img/img4.JPG)
-![img4](img/img_en1.jpg)
-![img5](img/img5.JPG)
-![img6](img/img6.JPG)
-![img6](img/SDKarte.jpg)
-![img6](img/SDKarte1.jpg)
-![img7](img/img7.JPG)
+<img src="img/img1.JPG" width="500" />
+<img src="img/img2.JPG" width="500" />
+<img src="img/img3.JPG" width="500" />
+<img src="img/img4.JPG" width="500" />
+<img src="img/img_en1.JPG" width="500" />
+<img src="img/img5.JPG" width="500" />
+<img src="img/img6.JPG" width="500" />
+<img src="img/SDKarte.jpg" width="500" />
+<img src="img/SDKarte1.jpg" width="500" />
+<img src="img/img7.JPG" width="500" />
 <img src="onOlimexBoard/olimex_as_cangw.jpg" width="500" />
