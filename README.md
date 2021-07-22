@@ -96,20 +96,35 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
 
 ## Einige Bilder/Screenshots:
 Aufbau der Hardware:
+
 <img src="img/aufbau.jpeg" width="500" />
+
 <img src="KiCAD/Version5/HW_V5_Pic.jpg" width="500" />
+
 <img src="img/example1.jpg" width="500" />
+
 <img src="img/example2.jpg" width="500" />
 
 Screenshots WEB-Interface:
+
 <img src="img/img1.JPG" width="500" />
+
 <img src="img/img2.JPG" width="500" />
+
 <img src="img/img3.JPG" width="500" />
+
 <img src="img/img4.JPG" width="500" />
-<img src="img/img_en1.JPG" width="500" />
+
+<img src="img/img_en1.jpg" width="500" />
+
 <img src="img/img5.JPG" width="500" />
+
 <img src="img/img6.JPG" width="500" />
+
 <img src="img/SDKarte.jpg" width="500" />
+
 <img src="img/SDKarte1.jpg" width="500" />
+
 <img src="img/img7.JPG" width="500" />
+
 <img src="onOlimexBoard/olimex_as_cangw.jpg" width="500" />
