@@ -5,9 +5,13 @@ Detailed operating manual in English: [Operating manual](Operating_manual.pdf)
 
 Highlights und erste Schritte: [Highlights_ErsteSchritte](CANGateway_QuickStart.pdf)
 
+Aktuell verkaufe ich mein zweites CAN-Gateway, vollständig aufgebaut und mit Vollversion der Software hier / currently I sell my second CAN-Gateway board including full SW version: [zu Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-r-tte-geraete-in-smarthome-connect/1799131510-168-16390)
+
 **NEW!!!** Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.myhome_for_hoval_devices'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80" align="middle"/></a> Also in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD).
 
 **NEW!!!** Available now: CAN-Gateway on Olimex ESP32-EVB(-EA) board (with Eternet/LAN interface as alternative to WiFI)! [More Info here](/onOlimexBoard)
+
+**Coming soon!!!** Protected access to CAN-Gateway via App over Internet (not only via local network as presently) including AES-256 encryption
 
 Fragen bitte an / questions please via: cangateway@gmx.de
 
