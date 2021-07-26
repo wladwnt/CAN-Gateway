@@ -11,7 +11,7 @@ Aktuell verkaufe ich mein zweites CAN-Gateway, vollständig aufgebaut und mit Vo
 
 **NEW!!!** Available now: CAN-Gateway on Olimex ESP32-EVB(-EA) board (with Eternet/LAN interface as alternative to WiFI)! [More Info here](/onOlimexBoard)
 
-**Coming soon!!!** Protected access to CAN-Gateway via App over Internet (not only via local network as presently) including AES-256 encryption
+**Coming soon!!!** Secure access to CAN-Gateway using the App over Internet (not only via local network as presently); secured by AES-256 encryption
 
 Fragen bitte an / questions please via: cangateway@gmx.de
 
