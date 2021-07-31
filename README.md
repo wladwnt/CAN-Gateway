@@ -134,3 +134,5 @@ Screenshots WEB-Interface:
 <img src="img/Fernzugriff.jpg" width="500" />
 
 <img src="onOlimexBoard/olimex_as_cangw.jpg" width="500" />
+
+<img src="app/000.jpg" width="500" />
