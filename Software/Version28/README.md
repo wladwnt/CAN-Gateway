@@ -4,7 +4,7 @@
 
 **How to flash this firmware (on Windows)**
 The easiest way is to use the new CAN-Gateway Flasher (based on ESPHome Flasher):
-1) Download CANGateway_Flasher.exe
+1) Download [CANGateway_Flasher.exe](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/Software/Version28/CANGateway-Flasher.exe)
 3) Install drivers for your board (CP210x or CH340, see operating manual PDF file for details)
 4) Plug your board via USB to your PC/Laptop
 5) Start CANGateway_Flasher.exe
