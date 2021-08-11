@@ -11,4 +11,6 @@ Drawbacks of ESP32-EVB(-EA) board compared to CAN-Gateway board v5:
 * External power source is required, no option for power supply by Hoval CAN-Bus
 * No BG02E interface option
 
+You can buy ESP32-EVB(-EA) board from [Olimex](https://www.olimex.com/Products/IoT/ESP32/ESP32-EVB/open-source-hardware) and install [Demo Version of CAN-Gateway](https://github.com/wladwnt/CAN-Gateway/tree/master/Software/Version28) on it.
+
 <img src="olimex_as_cangw.jpg" width="500" />
