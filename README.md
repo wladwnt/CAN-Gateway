@@ -13,37 +13,12 @@ Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizk
 
 Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter Form veröffentlicht. Diese hat im Vergleich zur vollen Version einige Einschränkungen (für Details siehe Bedienungsanleitung, Kapitel "Einschränkungen der Demo-Version").
 
-## Highlights:
-- Anschluss an Hoval CAN-Bus
-- Web-Interface
-- Frei konfigurierbar
-- Bis zu 40 Parametern gleichzeitig überwachen
-- Sollwerte einstellen
-- Anbindung der Geräte an Hausautomatisierung (z.B.Home Assistant, ioBroker, OpenHAB, Domoticz, Loxone etc.)
-- Unterstützte Protokolle / Features:
-  * MQTT Protokoll
-  * REST API
-  * Modbus TCP
-  * Home Assistant MQTT Auto Discovery
-- Datenlogging auf die SD-Karte
-- Über Android App vom überall via Internet zugreifen (mit End-to-End Verschlüsselung)
-
-## Kurze Beschreibung:
-
-- Diese Software erlaubt es die Geräte der Serie „TopTronic® E“ (TopTronic® E ist die geschützte und eingetragene Marke der Firma Hoval AG) der Firma Hoval Aktiengesellschaft an das Hausautomatisierungssystem anzubinden. Diese Geräte werden im Folgenden einfach „Geräte“ genannt. 
-- Die Geräte der Serie „TopTronic® E“ der Firma Hoval Aktiengesellschaft besitzen einen CAN-Bus Anschluss. Dieser wird für die Verbindung der Geräte untereinander verwendet. CAN-Gateway kann an dieses CAN-Bus angeschlossen werden und kann die auf dem Bus übertragenen Daten entschlüsseln und selbst die Daten auf dem Bus generieren, so dass damit Auslesen der Informationen aus den Geräten sowie die Steuerung der Geräte möglich ist.
-- Diese Software selber muss dafür auf einem ESP32 DevKit Board installiert werden. Die genaue Beschreibung der benötigten Hardwarekomponenten und der Aufbau ist in der Bedienungsanleitung zu finden. Der so aufgebaute ESP32 DevKit Board mit installierter Software wird im Folgenden als „CAN-Gateway“ bezeichnet.
-- ESP32 DevKit Board besitzt einen WLAN Interface, so dass das Hausautomatisierungssystem kann über WLAN mit dem CAN-Gateway verbunden werden. Als Datenübertragungsprotokolle zwischen CAN-Gateway und dem Hausautomatisierungssystem können wahlweise MQTT Protokoll, Modbus TCP Protokoll oder REST-API verwendet werden, wobei MQTT Protokoll empfohlen wird und Modbus TCP Protokoll nur mit einigen Einschränkungen funktioniert.
-- Über WLAN Interface kann CAN-Gateway mithilfe eines Internet Browsers konfiguriert werden.
-- NEU: Als Datenlogger mit Speicherung der Daten auf einer SD-Karte einsetzbar (In Verbund mit CAN-Gateway Hardware V5 und höher)
-- NEU: Auf CAN-Gateway von überall über Internet zugreifen und hre Geräte steuern. Sichere End-to-End Verschlüsselung. Kein Cloud etc., die Daten gehören nur Ihnen!
-
-(*) TopTronic E, Ultrasource, Belaria, Thermalia, TransTherm, TopGas, UltraGas, MultiJet, UltraOil, HomeVent  are registered trademarks of Hoval AG
-
-<img src="img/intro.jpeg" width="500" />
+<img src="https://github.com/wladwnt/CAN-Gateway/blob/master/img/cangw_1.jpg" width="500" />
 
 ## Einige Bilder/Screenshots:
 Aufbau der Hardware:
+
+<img src="img/intro.jpeg" width="500" />
 
 <img src="img/aufbau.jpeg" width="500" />
 
