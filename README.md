@@ -26,6 +26,7 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
   * Modbus TCP
   * Home Assistant MQTT Auto Discovery
 - Datenlogging auf die SD-Karte
+- Über Android App vom überall via Internet zugreifen (mit End-to-End Verschlüsselung)
 
 ## Kurze Beschreibung:
 
