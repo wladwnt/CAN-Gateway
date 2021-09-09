@@ -11,6 +11,8 @@ Möchten Sie erst ausprobieren? Das Board mit **Demo-Version für nur 29€**  z
 
 **NEW!!!** Windows App: [Download Installer](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/App/WindowsApp/MyHomeAppSetup_Windows10_x64_v1.1.0.exe)
 
+**COMING SOON!** KNX IP Interface! Integrate CAN-Gateway in your KNX based home system!
+
 Fragen bitte an / questions please via: cangateway@gmx.de
 
 Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizkreis/Warmwasser), TTE-PS (Puffermodul), TTE-SOL (Solar), TTE-BM (Raumbedienmodul), TTE-GW (Gateway), TTE-FW.
