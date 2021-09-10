@@ -54,6 +54,8 @@ Screenshots WEB-Interface:
 
 <img src="img/SDKarte1.jpg" width="500" />
 
+<img src="img/knxip_set.jpg" width="500" />
+
 <img src="img/img7.JPG" width="500" />
 
 <img src="img/Fernzugriff.jpg" width="500" />
