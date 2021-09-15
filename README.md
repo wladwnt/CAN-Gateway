@@ -11,7 +11,7 @@ Möchten Sie erst ausprobieren? Das Board mit **Demo-Version für nur 29€**  z
 
 **NEW!!!** Windows App: [Download Installer](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/App/WindowsApp/MyHomeAppSetup_Windows10_x64_v1.1.0.exe)
 
-**NEW!!!** since version 29.007: KNX IP Interface! Integrate CAN-Gateway in your KNX based home system! Status: experimental/beta (only few tests over WiFi yet, no tests with Etehrnet - coming soon).
+**NEW!!!** since version 29.007: KNX IP Interface! Integrate CAN-Gateway in your KNX based home system! Status: experimental/beta (only few tests over WiFi yet, no tests with Ethernet - coming soon).
 
 Fragen bitte an / questions please via: cangateway@gmx.de
 
