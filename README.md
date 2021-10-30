@@ -3,15 +3,13 @@ DEUTSCH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/Deutsche-Wiki) |  [D
 
 ENGLISH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/English-Wiki) |  [Detailed operating manual](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/Operating_manual.pdf)
 
-Aktuell verkaufe ich  für **129 €** mein zweites CAN-Gateway, vollständig aufgebaut und mit Vollversion der Software hier / currently I sell my second CAN-Gateway board including full SW version for **129 €**: [zu Ebay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/can-gateway-hoval-toptronic-e-tte-geraete-in-smarthome-connect/1892582732-168-16390) or just contact me cangateway@gmx.de
+Fragen? / Questions? Please contact me via Email: cangateway@gmx.de. 
 
 Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.myhome_for_hoval_devices'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80" align="middle"/></a> Also in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD).
 
 Windows App: [Download Installer](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/App/WindowsApp/MyHomeAppSetup_Windows10_x64_v1.1.0.exe)
 
-**NEW!!!** since version 29.007: KNX IP Interface! Integrate CAN-Gateway in your KNX based home automation system!
-
-Fragen bitte an / questions please via: cangateway@gmx.de
+**NEW!!!** since version 29.007: KNX IP Interface!
 
 Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizkreis/Warmwasser), TTE-PS (Puffermodul), TTE-SOL (Solar), TTE-BM (Raumbedienmodul), TTE-GW (Gateway), TTE-FW.
 
