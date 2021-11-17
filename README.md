@@ -3,7 +3,15 @@ DEUTSCH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/Deutsche-Wiki) |  [D
 
 ENGLISH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/English-Wiki) |  [Detailed operating manual](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/Operating_manual.pdf)
 
-Fragen? / Questions? Please contact me via Email: cangateway@gmx.de. (I usually answer within of 48 h. Please check Spam if you dont receive an answer)
+Fragen? / Questions? Please contact me via Email: cangateway@gmx.de. (I usually answer within of 48 h. Please check your spam fodler if you dont receive an answer)
+
+**NEW!** Die beste Hardware für CAN-Gateway Software ist CAN-Gateway development board, zu kaufen für 45,90 € bei [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/)
+
+**NEW!** The best hardware platform for CAN-Gateway Software is CAN-Gateway development board sold at [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/) for 45,90 €.
+
+Die Vollversion der Software kann bei mir schon jetzt per Email (cangateway@gmx.de) angefragt werden (Web Shop in Vorbereitung) und kostet 119 € (selbstverständlcih bekommen Sie dafür eine Rechnung etc.)
+
+The full software version can be bought by me (web shop is in preparation), please ask via email. It costs 119€. 
 
 Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.myhome_for_hoval_devices'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80" align="middle"/></a> Also in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD).
 
