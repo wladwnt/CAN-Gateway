@@ -5,9 +5,9 @@ ENGLISH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/English-Wiki) |  [De
 
 Fragen? / Questions? Please contact me via Email: cangateway@gmx.de. (I usually answer within of 48 h. Please check your spam fodler if you dont receive an answer)
 
-**NEW!** Die beste Hardware für CAN-Gateway Software ist CAN-Gateway development board, zu kaufen für 45,90 € bei [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/)
+**NEW!** Die beste Hardware für CAN-Gateway Software ist [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf), zu kaufen für 45,90 € bei [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/)
 
-**NEW!** The best hardware platform for CAN-Gateway Software is CAN-Gateway development board sold at [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/) for 45,90 €.
+**NEW!** The best hardware platform for CAN-Gateway Software is [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf) sold at [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/) for 45,90 €.
 
 Die Vollversion der Software kann bei mir schon jetzt per Email (cangateway@gmx.de) angefragt werden (Web Shop in Vorbereitung) und kostet 119 € (selbstverständlcih bekommen Sie dafür eine Rechnung etc.)
 
