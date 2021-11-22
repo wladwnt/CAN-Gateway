@@ -67,3 +67,5 @@ Screenshots WEB-Interface:
 <img src="onOlimexBoard/olimex_as_cangw.jpg" width="500" />
 
 <img src="App/000.jpg" width="500" />
+
+Verantwortlich für den vorherigen Inhalt: Dr.-Ing. Wladislaw Waag, 2020-2021
