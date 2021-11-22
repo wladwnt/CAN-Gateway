@@ -68,4 +68,4 @@ Screenshots WEB-Interface:
 
 <img src="App/000.jpg" width="500" />
 
-Verantwortlich für den vorherigen Inhalt: Dr.-Ing. Wladislaw Waag, 2020-2021
+Author: Dr.-Ing. Wladislaw Waag
