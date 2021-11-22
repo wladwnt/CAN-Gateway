@@ -1,4 +1,4 @@
-# CAN-Gateway for Hoval devices (TopTronic E&reg; series)
+# CAN-Gateway for Hoval devices (TopTronic&reg; E series)
 DEUTSCH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/Deutsche-Wiki) |  [Detailierte Bedienungsanleitung](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/Bedienungsanleitung.pdf)
 
 ENGLISH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/English-Wiki) |  [Detailed operating manual](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/Operating_manual.pdf)
