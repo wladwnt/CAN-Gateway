@@ -1,7 +1,7 @@
 # CAN-Gateway for Hoval devices (TopTronic&reg; E series)
 DEUTSCH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/Deutsche-Wiki) |  [Detailierte Bedienungsanleitung](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/Bedienungsanleitung.pdf) | [Zum CAN-Gateway in 7 Schritten](https://github.com/wladwnt/CAN-Gateway/wiki/Schritte-zum-CAN-Gateway) | [Video dazu](https://youtu.be/HU5wEv3FgdE)
 
-ENGLISH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/English-Wiki) |  [Detailed operating manual](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/Operating_manual.pdf) | [7 steps to CAN-Gateway](https://github.com/wladwnt/CAN-Gateway/wiki/Steps-to-CAN-Gateway)
+ENGLISH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/English-Wiki) |  [Detailed operating manual](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/Operating_manual.pdf) | [7 steps to CAN-Gateway](https://github.com/wladwnt/CAN-Gateway/wiki/Steps-to-CAN-Gateway) | [Intro video](https://youtu.be/7HJrZkuCv4k)
 
 Fragen? / Questions? Please contact me via Email: cangateway@gmx.de. (I usually answer within of 48 h. Please check your spam fodler if you dont receive an answer)
 
