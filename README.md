@@ -9,9 +9,9 @@ Fragen? / Questions? Please contact me via Email: cangateway@gmx.de. (I usually 
 
 **NEW!** The best hardware platform for CAN-Gateway Software is [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf) sold at [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/) for 45,90 €.
 
-Die Vollversion der Software kann bei mir schon jetzt per Email (cangateway@gmx.de) angefragt werden (Web Shop in Vorbereitung) und kostet 119 € (selbstverständlcih bekommen Sie dafür eine Rechnung etc.)
+Die Vollversion der Software ist in meinem Webshop verfügbar: [shop.myhome-control.de](https://shop.myhome-control.de)
 
-The full software version can be bought by me (web shop is in preparation), please ask via email. It costs 119€. 
+The full software version is available in my web shop: [shop.myhome-control.de](https://shop.myhome-control.de)
 
 Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.myhome_for_hoval_devices'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80" align="middle"/></a> Also in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD).
 
