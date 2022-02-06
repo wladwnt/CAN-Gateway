@@ -26,13 +26,6 @@ Hier ist die Software nur als eine sogenannte "Demo-Version" in kompilierter For
 <img src="https://github.com/wladwnt/CAN-Gateway/blob/master/img/cangw_1.jpg" width="500" />
 
 ## Einige Bilder/Screenshots:
-Aufbau der Hardware:
-
-<img src="img/intro.jpeg" width="500" />
-
-<img src="img/aufbau.jpeg" width="500" />
-
-<img src="KiCAD/Version5/HW_V5_Pic.jpg" width="500" />
 
 <img src="img/example1.jpg" width="500" />
 
