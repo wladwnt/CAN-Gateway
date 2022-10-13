@@ -17,7 +17,7 @@ Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.
 
 Windows App: [Download Installer](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/App/WindowsApp/MyHomeAppSetup_Windows10_x64_v1.1.0.exe)
 
-**NEW!!!** since version 29.007: KNX IP Interface!
+**NEW!!!** since version 29.007: KNX IP Interface (routing/multicasting only, no tunneling, no secure mode)!
 
 Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizkreis/Warmwasser), TTE-PS (Puffermodul), TTE-SOL (Solar), TTE-BM (Raumbedienmodul), TTE-GW (Gateway), TTE-FW (Fernwärme).
 
