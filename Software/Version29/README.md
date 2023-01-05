@@ -2,7 +2,7 @@ This is old version. For the newest one please refer to [WEB based CAN-Gateway D
 
 
 **Version 29.008 / Demo**
- - for CAN-Gateway HW V5
+ - for CAN-Gateway HW V5 (DO NOT install it on CAN-Gateway Development Board V7 / V8, use WEB Flasher for that)
  - for Olimex ESP32-EVB(-EA) Board
 
 **How to flash this firmware (on Windows)**
