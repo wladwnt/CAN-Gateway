@@ -17,7 +17,7 @@ Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.
 
 Windows App: [Download Installer](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/App/WindowsApp/MyHomeAppSetup_Windows10_x64_v1.1.0.exe)
 
-**Coming soon** Version 29.330: Better support and detailed instructions for integration in Home Asisstant / OpenHab / Loxone / ioBroker
+**Coming soon!!!** new Version 29.330: Better support and detailed instructions for integration in Home Asisstant / OpenHab / Loxone / ioBroker
 
 Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizkreis/Warmwasser), TTE-PS (Puffermodul), TTE-SOL (Solar), TTE-BM (Raumbedienmodul), TTE-GW (Gateway), TTE-FW (Fernwärme).
 
