@@ -5,9 +5,11 @@ ENGLISH: [Wiki](https://github.com/wladwnt/CAN-Gateway/wiki/English-Wiki) |  [De
 
 Fragen? / Questions? Please contact me via Email: cangateway@gmx.de. (I usually answer within of 48 h. Please check your spam folder if you dont receive an answer)
 
-**NEW!** Die beste Hardware für CAN-Gateway Software ist [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf), zu kaufen für 45,90 € bei [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/)
+Die beste Hardware für CAN-Gateway Software ist [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf), zu kaufen für 45,90 € bei [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/)
 
-**NEW!** The best hardware platform for CAN-Gateway Software is [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf) sold at [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/) for 45,90 €.
+The best hardware platform for CAN-Gateway Software is [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf) sold at [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/) for 45,90 €.
+
+**NEW !!!** Version 29.330: Better support and detailed instructions for integration in Home Asisstant / OpenHab / Loxone / ioBroker
 
 Die Vollversion der Software ist in meinem Webshop verfügbar: [shop.myhome-control.de](https://shop.myhome-control.de)
 
@@ -16,8 +18,6 @@ The full software version is available in my web shop: [shop.myhome-control.de](
 Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.myhome_for_hoval_devices'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80" align="middle"/></a> Also in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD).
 
 Windows App: [Download Installer](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/App/WindowsApp/MyHomeAppSetup_Windows10_x64_v1.1.0.exe)
-
-**NEW !!!** Version 29.330: Better support and detailed instructions for integration in Home Asisstant / OpenHab / Loxone / ioBroker
 
 Bisher getestet mit: TTE-HV (HomeVent), TTE-WEZ (Wärmeerzeuger), TTE-HKW (Heizkreis/Warmwasser), TTE-PS (Puffermodul), TTE-SOL (Solar), TTE-BM (Raumbedienmodul), TTE-GW (Gateway), TTE-FW (Fernwärme).
 
