@@ -7,7 +7,7 @@ Fragen? / Questions? Please contact me via Email: cangateway@gmx.de. (I usually 
 
 Die beste Hardware für CAN-Gateway Software ist [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf), zu kaufen für 45,90 € bei [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/)
 
-The best hardware platform for CAN-Gateway Software is [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf) sold at [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/) for 45,90 €.
+The best hardware platform for CAN-Gateway Software is [CAN-Gateway development board](http://wled.shop/wp-content/uploads/2021/11/CAN_Gateway_Nutzungsinformationen.pdf) sold at [WLED SHOP](https://wled.shop/produkt/wladis-can-gateway/) for 45,90 € (incl. housing) or at [MyHom-Control Shop](https://shop.myhome-control.de/CAN-Gateway-development-board/HW10018).
 
 **NEW !!!** Version 29.330: Better support and detailed instructions for integration in Home Asisstant / OpenHab / Loxone / ioBroker
 
