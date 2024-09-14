@@ -11,6 +11,8 @@ The best hardware platform for CAN-Gateway Software is [CAN-Gateway development 
 
 **NEW !!!** Version 30.011: Online-Services introduced including advanced parameter database and error decoder. Demo: [https://can-gateway.myhome-control.de/api/](https://can-gateway.myhome-control.de/api/)
 
+**NEW !!!** version 30.020: Alle Parameter/Datenpunkte eines Geräts auslesen und als eine CSV Datei abspeichern (z.B. als Backup, oder um die Einstellungen zwei Geräte zu vergleichen)
+
 Die Vollversion der Software ist in meinem Webshop verfügbar: [shop.myhome-control.de](https://shop.myhome-control.de)
 
 The full software version is available in my web shop: [shop.myhome-control.de](https://shop.myhome-control.de/en/)
