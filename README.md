@@ -17,6 +17,10 @@ Die Vollversion der Software ist in meinem Webshop verfügbar: [shop.myhome-cont
 
 The full software version is available in my web shop: [shop.myhome-control.de](https://shop.myhome-control.de/en/)
 
+**Bekannte Probleme: Es gibt einige Hinweise darauf, dass die WLAN Verbindung mit einigen WLAN Routern sehr schlecht funktioniert (WEB-Interafce vom CAN-Gateway sehr langsam), wenn der WLAN Router Funkkanal 6 oder Funkkanal 7 verwendet. Lösung: stellen Sie in Ihrem WLAN Router ein, dass Funkkanal 1  (2,4 GHz Band) verwendet werden soll.**
+
+**Known Issues: There is some indications that the WiFi connection with some WiFi routers works very poorly (WEB interface from CAN-Gateway very slow) when the WiFi router uses radio channel 6 or 7. Solution: set your WiFi router to use radio channel 1 (2.4 GHz band).** 
+
 Android app: <a href='https://play.google.com/store/apps/details?id=com.wladwnt.myhome_for_hoval_devices'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80" align="middle"/></a> Also in Amazon AppStore: [Link](http://www.amazon.com/gp/mas/dl/android?asin=B099S815PD).
 
 Windows App: [Download Installer](https://raw.githubusercontent.com/wladwnt/CAN-Gateway/master/App/WindowsApp/MyHomeAppSetup_Windows10_x64_v1.1.0.exe)
